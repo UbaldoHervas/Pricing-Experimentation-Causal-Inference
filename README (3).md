@@ -1,6 +1,5 @@
 # 🎯 Pricing Experimentation: Un Enfoque Causal
 
-> **Cómo estimar elasticidad precio-demanda con rigor científico en un negocio tipo Booking.com**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
